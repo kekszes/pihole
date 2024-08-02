@@ -1,0 +1,6 @@
+0.0.0.0 origo.hu
+0.0.0.0 www.origo.hu
+0.0.0.0 adat.origo.hu
+0.0.0.0 cdn.origo.hu
+0.0.0.0 magyarnemzet.hu
+0.0.0.0 mandiner.hu
